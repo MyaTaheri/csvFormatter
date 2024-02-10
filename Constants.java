@@ -11,4 +11,5 @@ public class Constants
 
     public int climbingAbilities = 0;
     
+    public int numberOfTeams = 0;
 }
